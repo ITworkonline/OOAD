@@ -38,7 +38,7 @@
 
 
 
-**Comments: **
+**Comments:**
 
 Based on project 1, we improve the zoo animal system from following aspect: 1) Add roamBehavior based on Strategy pattern; 2) set ZooAnnouncer as an observer to observe ZooKeeper and ZooFoodServer at the same time through Observe patter; 3) Add class Zooclock to make sure time schedule.
 
